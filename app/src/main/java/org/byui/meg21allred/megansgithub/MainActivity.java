@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("this is Megan's gitHub!");
         System.out.println("adding to the git");
+        System.out.println("Brennen is using Megan's gitHub");
     }
 }
